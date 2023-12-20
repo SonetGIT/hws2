@@ -14,9 +14,14 @@
 }
 
 .errorInput {
+    border: 3px solid red;
 }
 
 .button {
+    background-color: green;
+    min-width: 70px;
+    color: black;
+    font-weight: bold;
 }
 
 .button:focus {
